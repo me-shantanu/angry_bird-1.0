@@ -1,2 +1,2 @@
-# angry_bisrd-1.0
+# angry_bird-1.0
 this is a angry bird game using pygame , this is a simple game for one user 1.0 in 2.0 i m going to make is multiplayer game .......
